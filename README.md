@@ -1,5 +1,5 @@
 # Islamic Discord Bot
-![image info](./ImageBot.jpg)
+![image info](./ImageBot.jpg)\n
 Islamic Discord Bot is a Discord bot designed to send notifications for prayer times according to Islamic traditions. It helps users in staying updated with prayer timings without leaving their Discord server.
 
 # Features
